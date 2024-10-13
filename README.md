@@ -49,3 +49,5 @@ EDA involved the exploring of data to answers questions about the Data such as;
   SELECT * FROM TABLE1
   WHERE CONDITION = TRUE
   ```
+
+### Data Visualization 
