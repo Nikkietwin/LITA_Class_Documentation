@@ -2,7 +2,18 @@
 This is where I documented my first project while learning Data Analysis with the Incubator Hub. 
 
 ## Project Title : E Commerce Sales Anaylsis 
-### Project Overview
+
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleanimg and Preparations
+
+[Data Analysis](#data-analysis)
+
+### Project overview
 ---
 
 This data analysis used to generate insight into the sales performance of
@@ -51,3 +62,14 @@ EDA involved the exploring of data to answers questions about the Data such as;
   ```
 
 ### Data Visualization 
+![Bar _Chart ](https://github.com/user-attachments/assets/66cfa391-6057-4eb6-a16f-05bb6b9df639)
+
+
+💻
+
+😃
+
+A
+|Heading 1| Heading 2| Heading 3|
+|---------|----------|----------|
+|Table 1|Table 2|Table 3|
