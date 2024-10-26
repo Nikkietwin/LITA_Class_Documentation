@@ -72,4 +72,35 @@ EDA involved the exploring of data to answers questions about the Data such as;
 A
 |Heading 1| Heading 2| Heading 3|
 |---------|----------|----------|
-|Table 1|Table 2|Table 3|
+|Table 1|Table 2|Table 3 |
+
+
+
+# Sales Data Analysis 
+
+## Projct Overview 
+This project aims to provide an in-depth analysis of sales data across regions, markets, and product categories, and to  identify trends, performance indicators, and strategic opportunities. The focus is on understanding revenue generation, units sold, market segmentation, and how various fiscal periods impact sales.
+
+## Data Over view
+The dataset consists of the following key elements:
+
+1. Regions: Different geographical areas such as North Central, etc.
+2. Markets: Specific markets within each region.
+3. Stores: Store locations where sales occurred.
+4. Fiscal Period: The fiscal period in which sales were recorded.
+5. Product Models: Various product models that contributed to revenue and sales volume.
+6. Line of Business: Categories of business activities such as service plans or product sales.
+7. Revenue & Units Sold: Key performance indicators tracking the monetary value of sales and the volume of units sold.
+
+## Project Objectives
+1 Total Revenue by Region: to Identify which regions contribute the most revenue to the overall sales
+2 Units Sold by Region:to determine which regions have the highest volume of units sold, regardless of revenue
+3 Average Revenue per Sale by Region: to assess how much revenue is generated per sale in each region
+
+## Data Visualisation 
+## Revenue by Region 
+
+
+
+
+
