@@ -108,3 +108,7 @@ The dataset consists of the following key elements:
 
 
 ![Bar chart 1](https://github.com/user-attachments/assets/f9def8a0-d5ce-43a7-9ddf-9d66ba71cb15)
+
+## Region By Unit Sold
+
+
