@@ -103,4 +103,5 @@ The dataset consists of the following key elements:
 
 
 
+![Region By Revenue](https://github.com/user-attachments/assets/e3a73b96-6c9a-4984-be4c-e9766ac825ef)
 
