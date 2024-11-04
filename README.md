@@ -120,5 +120,5 @@ The dataset consists of the following key elements:
 ![Bar Chart 2](https://github.com/user-attachments/assets/6fa6f2df-492b-4afc-acf6-53c015c5f254)
 
 
-# structred Query Language (SQL)
+# Structred Query Language (SQL)
 
